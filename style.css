@@ -328,7 +328,7 @@ i {
     font-size: 1.7rem;
     display: flex;
     background-color: var(--grey_light);
-    box-shadow: 1px 1px 13px var(--sky_blue);
+    box-shadow: 1px 1px 12px var(--sky_blue);
 }
 
 .progress_bar .html {
@@ -337,7 +337,7 @@ i {
     border-radius: 25px;
 }
 
-.progress_bar .css {
+.progress_bar .css, .progress_bar .sass {
     background-color: var(--light_blue);
     width: 60%;
     border-radius: 25px;
